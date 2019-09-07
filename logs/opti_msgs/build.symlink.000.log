@@ -1,0 +1,27 @@
+Symlinking /home/yangrui/icra/project/opti_ws/devel/lib/python3/dist-packages/opti_msgs/__init__.py
+Symlinking /home/yangrui/icra/project/opti_ws/devel/lib/python3/dist-packages/opti_msgs/msg/_Odom.py
+Symlinking /home/yangrui/icra/project/opti_ws/devel/lib/python3/dist-packages/opti_msgs/msg/__init__.py
+Symlinking /home/yangrui/icra/project/opti_ws/devel/lib/pkgconfig/opti_msgs.pc
+Symlinking /home/yangrui/icra/project/opti_ws/devel/include/opti_msgs/Odom.h
+Symlinking /home/yangrui/icra/project/opti_ws/devel/share/common-lisp/ros/opti_msgs/msg/_package_Odom.lisp
+Symlinking /home/yangrui/icra/project/opti_ws/devel/share/common-lisp/ros/opti_msgs/msg/Odom.lisp
+Symlinking /home/yangrui/icra/project/opti_ws/devel/share/common-lisp/ros/opti_msgs/msg/_package.lisp
+Symlinking /home/yangrui/icra/project/opti_ws/devel/share/common-lisp/ros/opti_msgs/msg/opti_msgs-msg.asd
+Symlinking /home/yangrui/icra/project/opti_ws/devel/share/roseus/ros/opti_msgs/manifest.l
+Symlinking /home/yangrui/icra/project/opti_ws/devel/share/roseus/ros/opti_msgs/msg/Odom.l
+Symlinking /home/yangrui/icra/project/opti_ws/devel/share/opti_msgs/cmake/opti_msgs-msg-extras.cmake
+Symlinking /home/yangrui/icra/project/opti_ws/devel/share/opti_msgs/cmake/opti_msgsConfig-version.cmake
+Symlinking /home/yangrui/icra/project/opti_ws/devel/share/opti_msgs/cmake/opti_msgsConfig.cmake
+Symlinking /home/yangrui/icra/project/opti_ws/devel/share/opti_msgs/cmake/opti_msgs-msg-paths.cmake
+Symlinking /home/yangrui/icra/project/opti_ws/devel/share/gennodejs/ros/opti_msgs/_index.js
+Symlinking /home/yangrui/icra/project/opti_ws/devel/share/gennodejs/ros/opti_msgs/msg/Odom.js
+Symlinking /home/yangrui/icra/project/opti_ws/devel/share/gennodejs/ros/opti_msgs/msg/_index.js
+Cleaning: (/home/yangrui/icra/project/opti_ws/devel/.private/opti_msgs/lib/python2.7/dist-packages/opti_msgs/__init__.py, /home/yangrui/icra/project/opti_ws/devel/lib/python2.7/dist-packages/opti_msgs/__init__.py)
+Cleaning: (/home/yangrui/icra/project/opti_ws/devel/.private/opti_msgs/lib/python2.7/dist-packages/opti_msgs/msg/_Odom.py, /home/yangrui/icra/project/opti_ws/devel/lib/python2.7/dist-packages/opti_msgs/msg/_Odom.py)
+Cleaning: (/home/yangrui/icra/project/opti_ws/devel/.private/opti_msgs/lib/python2.7/dist-packages/opti_msgs/msg/__init__.py, /home/yangrui/icra/project/opti_ws/devel/lib/python2.7/dist-packages/opti_msgs/msg/__init__.py)
+Unlinking: /home/yangrui/icra/project/opti_ws/devel/lib/python2.7/dist-packages/opti_msgs/__init__.py
+Already unlinked: {}
+Unlinking: /home/yangrui/icra/project/opti_ws/devel/lib/python2.7/dist-packages/opti_msgs/msg/_Odom.py
+Already unlinked: {}
+Unlinking: /home/yangrui/icra/project/opti_ws/devel/lib/python2.7/dist-packages/opti_msgs/msg/__init__.py
+Already unlinked: {}

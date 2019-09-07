@@ -1,0 +1,4 @@
+Symlinking /home/yangrui/icra/project/opti_ws/devel/lib/bebop_odom/receiveOdomTest
+Symlinking /home/yangrui/icra/project/opti_ws/devel/lib/pkgconfig/bebop_odom.pc
+Symlinking /home/yangrui/icra/project/opti_ws/devel/share/bebop_odom/cmake/bebop_odomConfig.cmake
+Symlinking /home/yangrui/icra/project/opti_ws/devel/share/bebop_odom/cmake/bebop_odomConfig-version.cmake

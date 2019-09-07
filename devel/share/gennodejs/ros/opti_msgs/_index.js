@@ -1,0 +1,1 @@
+/home/yangrui/icra/project/opti_ws/devel/.private/opti_msgs/share/gennodejs/ros/opti_msgs/_index.js

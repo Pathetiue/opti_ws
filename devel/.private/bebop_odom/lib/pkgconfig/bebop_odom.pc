@@ -1,0 +1,8 @@
+prefix=/home/yangrui/icra/project/opti_ws/devel/.private/bebop_odom
+
+Name: bebop_odom
+Description: Description of bebop_odom
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/yangrui/icra/project/opti_ws/devel/.private/bebop_odom/lib 
+Requires: 

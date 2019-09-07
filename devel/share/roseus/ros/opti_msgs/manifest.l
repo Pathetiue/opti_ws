@@ -1,0 +1,1 @@
+/home/yangrui/icra/project/opti_ws/devel/.private/opti_msgs/share/roseus/ros/opti_msgs/manifest.l

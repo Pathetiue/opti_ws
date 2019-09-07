@@ -1,0 +1,1 @@
+/home/yangrui/icra/project/opti_ws/devel/.private/opti_msgs/share/opti_msgs/cmake/opti_msgsConfig.cmake

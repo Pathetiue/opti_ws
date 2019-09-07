@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC   -shared -Wl,-soname,libgtest.so -o libgtest.so CMakeFiles/gtest.dir/src/gtest-all.cc.o  -L/home/yangrui/icra/project/opti_ws/build/bebop_odom/gtest/gtest/src -lpthread -Wl,-rpath,/home/yangrui/icra/project/opti_ws/build/bebop_odom/gtest/gtest/src 

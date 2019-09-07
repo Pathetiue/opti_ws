@@ -1,0 +1,4 @@
+[35m[1mScanning dependencies of target receiveOdomTest[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/receiveOdomTest.dir/src/receiveOdomTest.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/yangrui/icra/project/opti_ws/devel/.private/bebop_odom/lib/bebop_odom/receiveOdomTest[0m
+[100%] Built target receiveOdomTest

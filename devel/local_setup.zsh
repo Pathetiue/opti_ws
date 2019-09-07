@@ -1,0 +1,1 @@
+/home/yangrui/icra/project/opti_ws/devel/.private/catkin_tools_prebuild/local_setup.zsh

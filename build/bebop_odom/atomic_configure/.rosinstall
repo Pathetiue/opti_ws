@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/yangrui/icra/project/opti_ws/devel/.private/bebop_odom/setup.sh

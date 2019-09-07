@@ -1,0 +1,6 @@
+devel_space: /home/yangrui/icra/project/opti_ws/devel
+install: false
+install_space: /home/yangrui/icra/project/opti_ws/install
+profile: default
+source_space: /home/yangrui/icra/project/opti_ws/src
+workspace: /home/yangrui/icra/project/opti_ws

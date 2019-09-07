@@ -1,0 +1,8 @@
+prefix=/home/yangrui/icra/project/opti_ws/devel/.private/opti_msgs
+
+Name: opti_msgs
+Description: Description of opti_msgs
+Version: 0.0.0
+Cflags: -I/home/yangrui/icra/project/opti_ws/devel/.private/opti_msgs/include
+Libs: -L/home/yangrui/icra/project/opti_ws/devel/.private/opti_msgs/lib 
+Requires: message_runtime geometry_msgs std_msgs
